@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Rose:wght@300..700&display=swap");
+
+/* =================================
+   variables
+================================= */
+
+:root {
+  --pink: plum;
+  --header-font: "Red Rose", serif;
+}
+
+/* =================================
+   reset 
+================================= */
+body,
+html {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* =================================
+  basic styles
+================================= */
+
+#root {
+  width: 1126px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  border-inline: 1px solid var(--border);
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+h1,
+h2,
+.form-label {
+  margin: 0.5em auto;
+  font-family: var(--header-font);
+}
+
+main {
+  padding: 1em;
+}
+
+button {
+  width: 90%;
+  background-color: rgb(36, 28, 28);
+  padding: 0.2em 2em;
+  border-radius: 1em;
+  color: white;
+  font-size: 1em;
+  font-weight: 600;
+  font-family: var(--header-font);
+  margin: 0.5em auto;
+}
+
+.form-dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+select {
+  padding: 0.5em 1em;
+  width: 60%;
+  margin: 0.5em auto;
+  border-radius: 1em;
+  accent-color: plum;
+}
+
+.dropdown-option:checked {
+  outline: none;
+  background-color: rgba(255, 0, 255, 0.516);
+}
+
+.dropdown-option:hover {
+  background-color: plum;
+  color: white;
+}
+select,
+::picker(select) {
+  appearance: base-select;
+}
