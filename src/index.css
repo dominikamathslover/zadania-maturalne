@@ -34,6 +34,7 @@ html {
   min-height: 100svh;
   display: flex;
   flex-direction: column;
+  padding: 1em;
 }
 
 h1 {
@@ -75,10 +76,15 @@ button {
 
 select {
   padding: 0.5em 1em;
-  width: 60%;
+  width: 90%;
   margin: 0.5em auto;
   border-radius: 1em;
   accent-color: plum;
+}
+
+button,
+select {
+  max-width: 400px;
 }
 
 .dropdown-option:checked {
@@ -93,4 +99,39 @@ select {
 select,
 ::picker(select) {
   appearance: base-select;
+}
+
+@media (min-width: 600px) {
+  main {
+    display: flex;
+  }
+  section {
+    width: 50%;
+  }
+  .section-rigth {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #tresciZadan {
+    order: 0;
+  }
+
+  #btn-hide {
+    order: 1;
+  }
+  #btn-save {
+    order: 2;
+  }
+  #btn-create {
+    margin: 2em auto;
+  }
+}
+@media (min-width: 900px) {
+  select {
+    width: 60%;
+  }
+  button {
+    width: 50%;
+  }
 }

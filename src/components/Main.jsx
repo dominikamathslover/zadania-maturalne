@@ -58,87 +58,98 @@ export default function Main() {
 
   return (
     <main>
-      <div className="form-dropdown">
-        <label className="form-label" htmlFor="poziom">
-          Wybierz poziom
-        </label>
-        <select
-          name="poziom"
-          id="poziom"
-          value={poziom}
-          onChange={(e) => setPoziom(e.target.value)}
-        >
-          <option className="dropdown-option" value="">
+      <section className="section-select">
+        <div className="form-dropdown">
+          <label className="form-label" htmlFor="poziom">
             Wybierz poziom
-          </option>
-
-          <option className="dropdown-option" value="podstawowy">
-            Podstawowy
-          </option>
-          <option className="dropdown-option" value="rozszerzony">
-            Rozszerzony
-          </option>
-        </select>
-      </div>
-      <div className="form-dropdown">
-        <label className="form-label" htmlFor="ilosc-zadan">
-          Wybierz ilość pytań
-        </label>
-        <select
-          name="ilosc-zadan"
-          id="ilosc-zadan"
-          value={iloscZadan}
-          onChange={(e) => setIloscZadan(e.target.value)}
-        >
-          {Array.from({ length: 5 }).map((num, idx) => (
-            <option key={idx} className="dropdown-option" value={idx + 1}>
-              {idx + 1}
+          </label>
+          <select
+            name="poziom"
+            id="poziom"
+            value={poziom}
+            onChange={(e) => setPoziom(e.target.value)}
+          >
+            <option className="dropdown-option" value="">
+              Wybierz poziom
             </option>
-          ))}
-        </select>
-      </div>
-      <div className="form-dropdown">
-        <label className="form-label" htmlFor="lata">
-          Wybierz lata matur
-        </label>
-        <select
-          name="lata"
-          id="lata"
-          value={wybraneLata}
-          onChange={(e) => setWybraneLata(e.target.value)}
-        >
-          <option value="" disabled>
-            Wybierz lata matur
-          </option>
-          {lata.map((rok) => (
-            <option className="dropdown-option" value={rok}>
-              {rok}
-            </option>
-          ))}
-        </select>
-      </div>
 
-      <button className="btn" onClick={wybierzLosoweZadanie}>
-        Generuj zadania
-      </button>
-      {wybraneZadania.length !== 0 && (
-        <button
-          className="btn"
-          onClick={() => setUkryjZadania((prev) => !prev)}
-        >
-          {ukryjZadania ? "Pokaż zadania" : "Ukryj zadania"}
-        </button>
-      )}
-      {!ukryjZadania && (
-        <div className="tresciZadan" id="tresciZadan">
-          <ol>{wyswietlZadania()}</ol>
+            <option className="dropdown-option" value="podstawowy">
+              Podstawowy
+            </option>
+            <option className="dropdown-option" value="rozszerzony">
+              Rozszerzony
+            </option>
+          </select>
         </div>
-      )}
-      {wybraneZadania.length !== 0 && (
-        <button className="btn" onClick={() => zapiszZadania(wybraneZadania)}>
-          Zapisz pdf z zadaniami
+        <div className="form-dropdown">
+          <label className="form-label" htmlFor="ilosc-zadan">
+            Wybierz ilość pytań
+          </label>
+          <select
+            name="ilosc-zadan"
+            id="ilosc-zadan"
+            value={iloscZadan}
+            onChange={(e) => setIloscZadan(e.target.value)}
+          >
+            {Array.from({ length: 5 }).map((num, idx) => (
+              <option key={idx} className="dropdown-option" value={idx + 1}>
+                {idx + 1}
+              </option>
+            ))}
+          </select>
+        </div>
+        <div className="form-dropdown">
+          <label className="form-label" htmlFor="lata">
+            Wybierz lata matur
+          </label>
+          <select
+            name="lata"
+            id="lata"
+            value={wybraneLata}
+            onChange={(e) => setWybraneLata(e.target.value)}
+          >
+            <option value="" disabled>
+              Wybierz lata matur
+            </option>
+            {lata.map((rok) => (
+              <option className="dropdown-option" value={rok}>
+                {rok}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <button className="btn" onClick={wybierzLosoweZadanie} id="btn-create">
+          Generuj zadania
         </button>
-      )}
+      </section>
+
+      <section className="section-rigth">
+        {wybraneZadania.length !== 0 && (
+          <button
+            className="btn"
+            onClick={() => setUkryjZadania((prev) => !prev)}
+            id="btn-hide"
+          >
+            {ukryjZadania ? "Pokaż zadania" : "Ukryj zadania"}
+          </button>
+        )}
+
+        {!ukryjZadania && (
+          <div className="tresciZadan" id="tresciZadan">
+            <ol>{wyswietlZadania()}</ol>
+          </div>
+        )}
+        {wybraneZadania.length !== 0 && (
+          <button
+            className="btn"
+            onClick={() => zapiszZadania(wybraneZadania)}
+            id="btn-save"
+          >
+            Zapisz pdf z zadaniami
+          </button>
+        )}
+      </section>
     </main>
   );
 }
