@@ -1,0 +1,1519 @@
+[
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 1,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczba |√5 − 3| + |√5 − 1| jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "2√5 − 4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "2√5 + 4"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 2,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczba (25⁻²)/(125⁻⁴) jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "5⁻¹⁶"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "5⁻²"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "5⁴"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "5⁸"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 3,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczba ∛24 + ∛192 jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "6"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "3∛6"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "6∛3"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "6∛6"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 4,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczba log₃2 − log₃18 jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−1/2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "1/2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 6,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Dla każdej liczby rzeczywistej x i dla każdej liczby rzeczywistej y wartość wyrażenia (3x + y)² − (3x − y)² jest równa wartości wyrażenia:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "12xy"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−12xy"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "2y²"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4y²"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 7,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Zbiorem wszystkich rozwiązań nierówności 3 − x ≥ (5x − 1)/2 jest przedział:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "(−∞, 1]"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "(−∞, 7/6]"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "[1, +∞)"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "[7/6, +∞)"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 10,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Suma wszystkich rozwiązań równania (3x − 12)(10 + 5x)(x − 3) = 0 jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−5"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−1"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "5"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "9"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 13,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Miejscem zerowym funkcji liniowej g jest liczba (−3). Dla argumentu 0 funkcja g przyjmuje wartość (−3/2). Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Funkcja g jest określona wzorem.",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "g(x) = −1/2x − 3/2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "g(x) = −1/2x + 3/2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "g(x) = 1/2x − 3/2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "g(x) = 1/2x + 3/2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "14.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja kwadratowa f jest określona wzorem f(x) = 1/2 x² + bx + c, gdzie b oraz c są liczbami rzeczywistymi. Jednym z miejsc zerowych funkcji f jest liczba 6. W kartezjańskim układzie współrzędnych (x, y) prosta o równaniu x = 1 jest osią symetrii wykresu funkcji f. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Funkcja f jest określona wzorem.",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "f(x) = 1/2 (x − 4)(x − 6)"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "f(x) = 1/2 (x − 4)(x + 6)"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "f(x) = 1/2 (x + 4)(x − 6)"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "f(x) = 1/2 (x + 4)(x + 6)"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "14.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "stwierdzenia": [
+      {
+        "tresc": "Współczynnik b we wzorze funkcji f jest liczbą dodatnią.",
+        "odpowiedzi": ["P", "F"]
+      },
+      {
+        "tresc": "Współczynnik c we wzorze funkcji f jest liczbą dodatnią.",
+        "odpowiedzi": ["P", "F"]
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "14.3",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja g jest określona dla każdej liczby rzeczywistej x wzorem g(x) = f(x − 3). Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Osią symetrii wykresu funkcji g jest prosta o równaniu:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "x = −2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "x = 1"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "x = 3"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "x = 4"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 15,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Ciąg (aₙ) jest określony wzorem aₙ = 32 · (−1)ⁿ / (2n − 1) dla każdej liczby naturalnej n ≥ 1. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Szósty wyraz ciągu (aₙ) jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−1"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "1"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 16,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Ciąg arytmetyczny (aₙ) jest określony dla każdej liczby naturalnej n ≥ 1. Różnica tego ciągu jest równa (−4) oraz a₁₀ = −24. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Szósty wyraz ciągu (aₙ) jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−12"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−8"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "−4"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "0"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 17,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Ciąg geometryczny (aₙ), o wszystkich wyrazach rzeczywistych różnych od 0, jest określony dla każdej liczby naturalnej n ≥ 1. Wyrazy tego ciągu spełniają warunek a₃ = −8 · a₆. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Iloraz ciągu (aₙ) jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−1/2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "1/2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 18,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Trzywyrazowy ciąg (√5, 1, x) jest arytmetyczny. Trzywyrazowy ciąg (√5, 1, y) jest geometryczny. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczby x oraz y spełniają warunki:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "x < 0 i y < 0"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "x < 0 i y > 0"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "x > 0 i y < 0"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "x > 0 i y > 0"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 19,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Kąt α jest ostry oraz cos α = 5/13. Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Tangens kąta α jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "5/12"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "12/13"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "13/12"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "12/5"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 20,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Liczba sin 30° · cos 60° + sin 60° · cos 30° jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "1/2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "√2/2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "√3/2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "1"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "21.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Punkty A, B, C oraz D leżą na okręgu o środku w punkcie S i o promieniu 36. Punkt S leży na odcinku BD. Kąt BDA ma miarę 40°, a kąt DBC ma miarę 65° (zobacz rysunek). Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Miara kąta ostrego BSA jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "20°"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "40°"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "50°"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "80°"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "21.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Długość łuku BC, na którym jest oparty kąt wpisany CDB, jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "8π"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "10π"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "13π"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "20π"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "22.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dany jest trójkąt ABC, w którym |AB| = 6, |AC| = 4 oraz |∡CAB| = 60° (zobacz rysunek). Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Pole trójkąta ABC jest równe:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "6"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "6√3"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "12"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "12√3"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "22.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych. Długość boku BC trójkąta ABC jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "√28"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "√40"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "8"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "√76"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 23,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dany jest trapez ABCD o podstawach AB i CD takich, że |AB| = 2 · |CD|. Przekątne AC i BD przecinają się w punkcie E (zobacz rysunek). Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "stwierdzenia": [
+      {
+        "tresc": "Pola trójkątów BCE oraz AED są równe.",
+        "odpowiedzi": ["P", "F"]
+      },
+      {
+        "tresc": "Pole trójkąta ABE jest dwa razy większe od pola trójkąta CDE.",
+        "odpowiedzi": ["P", "F"]
+      }
+    ]
+  },
+
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 24,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami: k: y = (3 − m)x + 5, l: y = (m + 3)x − 4. Uzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie było prawdziwe. Proste k oraz l są równoległe, gdy liczba m jest równa ............ ."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 25,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W kartezjańskim układzie współrzędnych (x, y) dany jest okrąg O o równaniu: (x − 1)² + (y + 3)² = 4. Oceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "stwierdzenia": [
+      {
+        "tresc": "Okrąg O nie ma punktów wspólnych z osią Ox układu współrzędnych.",
+        "odpowiedzi": ["P", "F"]
+      },
+      {
+        "tresc": "Okrąg O ma z osią Oy układu współrzędnych dokładnie dwa punkty wspólne.",
+        "odpowiedzi": ["P", "F"]
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 1,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba ∛(−27) + ⁵√(−1) jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 2,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba (3⁻¹ · 4⁰·⁵)/(3⁻² · 2⁻¹) jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "1/12"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "12"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "1/18"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "18"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 3,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba log₈4 + log₈32 − log₈2 jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "log₈34"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "3"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "8"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 4,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba (π + 1)² − (π − 1)² jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "0"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "4π"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4π + 2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 6,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dana jest nierówność:\n\n(7 + 2x)/5 ≥ 4/15\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nNajmniejszą liczbą całkowitą, która spełnia tę nierówność, jest:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−3"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "−2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "−1"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 7,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nSuma wszystkich rozwiązań równania (x² − 4)(x² − 9) = 0 jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−13"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "0"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "5"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "13"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 8,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nDla każdej liczby rzeczywistej x różnej od −2, 0 oraz 2 wartość wyrażenia (4/(x² + 2x)) : (5x/(4 − x²)) jest równa wartości wyrażenia:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "(8 − 4x)/(5x²)"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "(4x − 8)/(5x²)"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "20/((x + 2)² · (x − 2))"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "20/((x + 2)² · (2 − x))"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "13.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja kwadratowa f jest określona wzorem f(x) = 2(x − 2)² + 4.\n\nOceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest prawdziwe, albo F – jeśli jest fałszywe.",
+    "stwierdzenia": [
+      {
+        "tresc": "Funkcja f ma dwa rzeczywiste miejsca zerowe.",
+        "odpowiedzi": ["P", "F"]
+      },
+      {
+        "tresc": "W kartezjańskim układzie współrzędnych (x, y) osią symetrii wykresu funkcji f jest prosta o równaniu x = 2.",
+        "odpowiedzi": ["P", "F"]
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "13.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWzorem funkcji f zapisanym w postaci ogólnej jest:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "f(x) = 2x² − 4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "f(x) = 2x² + 12"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "f(x) = 2x² − 4x + 12"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "f(x) = 2x² − 8x + 12"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "14.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Ciąg (aₙ) jest określony wzorem aₙ = 32 · (1/2)⁽ⁿ⁻⁵⁾ dla każdej liczby naturalnej n ≥ 1.\n\nZadanie 14.1. (0–1)\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nTrzeci wyraz ciągu (aₙ) jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "8"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "64"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "128"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "256"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "14.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nCiąg (aₙ) jest:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "arytmetyczny i rosnący"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "arytmetyczny i malejący"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "geometryczny i rosnący"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "geometryczny i malejący"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 16,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Trzywyrazowy ciąg (x, x + 4, 2x + 8), o wszystkich wyrazach dodatnich, jest geometryczny.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nIloraz tego ciągu jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "−4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "−1"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 17,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Kąt α jest ostry i spełnia warunek sin α + sin 2α = cos α − cos 2α + 1.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nTangens kąta α jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "1/2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "√2/2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "1"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 18,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Cztery różne punkty: A, B, C oraz D, leżą na okręgu o środku w punkcie S. Odcinek AC jest średnicą tego okręgu. Cięciwa BD przecina tę średnicę. Oznaczmy przez β miarę kąta wpisanego DBC, natomiast przez γ – miarę kąta wpisanego ACD (zobacz rysunek).\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nSuma β + γ jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "60°"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "90°"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "120°"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "135°"
+      }
+    ]
+  },
+
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 20,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W prostokątnym trójkącie równoramiennym przeciwprostokątna ma długość 8.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nObwód tego trójkąta jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "4(√2 + 2)"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "4(√2 + 4)"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "8(√2 + 1)"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "8(√2 + 2)"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 21,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Trójkąt ABC o bokach długości |AB| = 6, |AC| = 9 i |BC| = 12 jest podobny do trójkąta KLM o obwodzie 36.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nNajkrótszy bok trójkąta KLM ma długość:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "4"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "4,5"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "8"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "8,5"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "22.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W kartezjańskim układzie współrzędnych (x, y) punkty A = (0, −6), B = (4, 2) oraz C = (0, 4) są wierzchołkami trójkąta prostokątnego.\n\nZadanie 22.1. (0–1)\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nBok AB tego trójkąta zawiera się w prostej o równaniu:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "y = -x + 6"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "y = -x - 6"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "y = 2x + 6"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "y = 2x- 6"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "22.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nTangens kąta ostrego CAB jest równy:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "1/2"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "2"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "√5/5"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "2√5/5"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "23.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W kartezjańskim układzie współrzędnych (x, y) dany jest okrąg O o środku w punkcie S = (−8, −6). Odcinek AB, gdzie A = (4, −15) i B = (−20, yB), jest średnicą okręgu O.\n\nZadanie 23.1. (0–1)\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWspółrzędna yB punktu B jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "3"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "8"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "-1/2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "-9/2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": "23.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nOkrąg O jest określony równaniem:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "(x + 8)² + (y + 6)² = 225"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "(x + 8)² + (y + 6)² = 441"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "(x − 8)² + (y − 6)² = 225"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "(x − 8)² + (y − 6)² = 441"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 24,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W kartezjańskim układzie współrzędnych (x, y) proste k oraz l są określone równaniami:\n\nk: y = (m − 3)x + (m + 4)\n\nl: y = −5x + 1\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nProste k oraz l są równoległe, gdy liczba m jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "-5"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "-3"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "-2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "1"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 25,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Każda z krawędzi graniastosłupa prawidłowego sześciokątnego ma długość 3.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nObjętość tego graniastosłupa jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "27"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "81"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "27√3/4"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "81√3/2"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 26,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Krawędź boczna ostrosłupa prawidłowego czworokątnego ma długość 12 i jest nachylona do płaszczyzny podstawy pod kątem 60°.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWysokość tego ostrosłupa jest równa:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "6"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "3√6"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "6√2"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "6√3"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 27,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W pewnym ostrosłupie liczba wszystkich krawędzi jest o 9 większa od liczby wszystkich wierzchołków.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nPodstawą tego ostrosłupa jest:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "sześciokąt"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "ośmiokąt"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "dziewięciokąt"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "dziesięciokąt"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 28,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 1
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek. Zdarzenie A polega na tym, że suma liczb wyrzuconych oczek będzie większa od 10.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nPrawdopodobieństwo zdarzenia A jest równe:",
+    "odpowiedzi": [
+      {
+        "oznaczenie": "A",
+        "tresc": "1/36"
+      },
+      {
+        "oznaczenie": "B",
+        "tresc": "2/36"
+      },
+      {
+        "oznaczenie": "C",
+        "tresc": "3/36"
+      },
+      {
+        "oznaczenie": "D",
+        "tresc": "4/36"
+      }
+    ]
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 29,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 3
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Wśród 120 osób przeprowadzono ankietę, w której zadano pytanie: Ile godzin snu potrzebujesz, aby być wypoczętym? Każdy z ankietowanych zaznaczył dokładnie jedną odpowiedź. Wyniki ankiety przedstawiono w poniższej tabeli.\n\nDeklarowana liczba godzin snu: 4, 5, 6, 7, 8, 9, 10.\nLiczba osób, które zadeklarowały daną liczbę godzin snu: 6, 4, 14, 36, 38, 10, 12.\n\nUzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania były prawdziwe.\n\n1. Mediana deklarowanej liczby godzin snu przez osoby uczestniczące w ankiecie jest równa ............ .\n\n2. Dominanta deklarowanej liczby godzin snu przez osoby uczestniczące w ankiecie jest równa ............ .\n\n3. Prawdopodobieństwo zdarzenia polegającego na tym, że jedna osoba wybrana losowo spośród ankietowanych zadeklarowała 10 godzin snu, jest równe ............ .",
+    "dane": {
+      "liczba_ankietowanych": 120,
+      "tabela": [
+        {
+          "liczba_godzin_snu": 4,
+          "liczba_osob": 6
+        },
+        {
+          "liczba_godzin_snu": 5,
+          "liczba_osob": 4
+        },
+        {
+          "liczba_godzin_snu": 6,
+          "liczba_osob": 14
+        },
+        {
+          "liczba_godzin_snu": 7,
+          "liczba_osob": 36
+        },
+        {
+          "liczba_godzin_snu": 8,
+          "liczba_osob": 38
+        },
+        {
+          "liczba_godzin_snu": 9,
+          "liczba_osob": 10
+        },
+        {
+          "liczba_godzin_snu": 10,
+          "liczba_osob": 12
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "lipiec",
+    "numer_zadania": 5,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Wykaż, że liczba 8⁵⁰ − 2¹⁴⁵ jest podzielna przez 31."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 8,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 3
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dane jest równanie 3/(3x − 7) = 5x/(x − 8), gdzie x ≠ 7/3 i x ≠ 8. Wyznacz wszystkie rozwiązania tego równania należące do przedziału (5/4, +∞). Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 9,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Rozwiąż nierówność −3x² > 6x − 9. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 11,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Właściciel restauracji kupił 75 kilogramów pomidorów: x kg pomidorów malinowych w cenie 11 złotych za kilogram oraz y kg pomidorów cherry w cenie 7,98 złotych za kilogram. Za pomidory zapłacił łącznie 752,52 złotych. Oblicz, ile kilogramów pomidorów malinowych kupił właściciel restauracji. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "12.1",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja f jest określona następująco: f(x) = −2x − 10 dla x ∈ (−5, −3] oraz f(x) = x − 1 dla x ∈ (−3, 4]. Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania były prawdziwe. 1. Miejscem zerowym funkcji f jest liczba ............ . 2. Wartość wyrażenia f(−2) + 3 · f(2) jest równa ............ ."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": "12.2",
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Uzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby zdania były prawdziwe. 1. Zbiorem wartości funkcji f jest przedział ............ . 2. Zbiorem wszystkich rozwiązań nierówności f(x) < −2 jest przedział ............ ."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "lipiec",
+    "numer_zadania": 26,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 4
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Dany jest graniastosłup prawidłowy trójkątny ABCDEF. Wysokość podstawy ABC jest równa 2√3. Przekątna AE ściany bocznej ABED tworzy z krawędzią AB kąt o mierze 60° (zobacz rysunek). Oblicz objętość i pole powierzchni całkowitej tego graniastosłupa. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "lipiec",
+    "numer_zadania": 29,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Doświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry, która na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek. Zapisujemy kolejno liczby wyrzuconych oczek i w ten sposób otrzymujemy liczbę dwucyfrową, przy czym pierwsza wyrzucona liczba oczek jest cyfrą dziesiątek, a druga – cyfrą jedności tej liczby dwucyfrowej. Oblicz prawdopodobieństwo zdarzenia A polegającego na tym, że otrzymana w ten sposób liczba dwucyfrowa będzie nieparzysta i podzielna przez 3. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "lipiec",
+    "numer_zadania": 30,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 3
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W stacji diagnostycznej odnotowywano liczby usterek wykrytych podczas przeglądów technicznych pięcioletnich samochodów w lipcu 2025 roku. Wszystkie odnotowane wyniki przedstawiono na poniższym diagramie. Na osi poziomej podano liczbę usterek, które zostały wykryte podczas przeglądów, a na osi pionowej podano liczbę samochodów, w których wykryto daną liczbę usterek. Uzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania były prawdziwe. 1. Dominanta liczby usterek wykrytych na tej stacji podczas tych przeglądów jest równa ............ . 2. Średnia arytmetyczna liczby usterek wykrytych na tej stacji podczas tych przeglądów jest równa ............ . 3. Liczba samochodów, w których wykryto podczas tych przeglądów co najmniej dwie usterki, stanowi ............ procent liczby samochodów, w których wykryto dokładnie jedną usterkę."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2025,
+    "miesiac": "sierpień",
+    "numer_zadania": 31,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Hotel ma do dyspozycji gości 80 pokoi jednoosobowych. Właściciel hotelu przeanalizował wpływ ceny za dobę hotelową na liczbę wynajętych pokoi i stwierdził, że: przy wyjściowej cenie wynoszącej 120 zł za jedną dobę hotelową wszystkie pokoje są wynajęte; każdy wzrost ceny za dobę hotelową o 5 zł skutkuje spadkiem liczby wynajmowanych pokoi o 1. Przyjmijmy, że dobowy przychód P hotelu z wynajmowania pokoi, w zależności od podwyżki ceny wyjściowej za dobę hotelową o 5x złotych, opisuje funkcja P(x) = (80 − x)(120 + 5x), gdzie x jest liczbą całkowitą spełniającą warunki x ≥ 0 i x ≤ 80. Oblicz, jaka powinna być cena wynajęcia jednoosobowego pokoju (za dobę hotelową), aby dobowy przychód hotelu z wynajmowania pokoi był największy. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 5,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Wykaż, że dla każdej nieparzystej liczby całkowitej n liczba 3n² + 6n + 15 jest podzielna przez 12."
+  },
+
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 9,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Rozwiąż nierówność:\n\nlog(3x − 2) < 1\n\nZapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 10,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W pewnym sklepie czekolada 𝒞 kosztuje x złotych, a baton ℬ kosztuje y złotych. Piotr kupił w tym sklepie 8 czekolad 𝒞 oraz 4 batony ℬ i zapłacił za te zakupy 82 złote. Natalia kupiła w tym sklepie 3 czekolady 𝒞 oraz 9 batonów ℬ i zapłaciła za te zakupy 60 złotych.\n\nOblicz cenę x czekolady 𝒞. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 11,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 3
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja f jest określona następująco:\n\nf(x) =\n  1 dla x ∈ (−5, −3]\n  −x − 2 dla x ∈ (−3, 1]\n  x − 4 dla x ∈ (1, 5)\n\nWykres funkcji y = f(x) przedstawiono w kartezjańskim układzie współrzędnych (x, y) na rysunku poniżej.\n\nUzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby zdania były prawdziwe.\n\n1. Zbiorem wartości funkcji f jest przedział …………………… .\n\n2. Zbiorem wszystkich argumentów, dla których funkcja f przyjmuje wartości ujemne, jest przedział …………………… .\n\n3. Zbiorem wszystkich argumentów, dla których funkcja f przyjmuje największą wartość, jest przedział …………………… ."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 12,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 2
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Funkcja liniowa f jest określona wzorem f(x) = 5x + m² + 6m, gdzie m jest pewną liczbą rzeczywistą. W kartezjańskim układzie współrzędnych (x, y) wykres funkcji f przecina oś Oy w punkcie o współrzędnych (0, −9).\n\nOblicz m. Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 15,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 3
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Ciąg arytmetyczny (aₙ) jest określony dla każdej liczby naturalnej n ≥ 1. Suma S₁₀ dziesięciu początkowych kolejnych wyrazów tego ciągu jest równa 90. Średnia arytmetyczna pierwszego, siódmego i ósmego wyrazu tego ciągu jest równa 10.\n\nOblicz pierwszy wyraz i różnicę ciągu (aₙ). Zapisz obliczenia."
+  },
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 19,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 4
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "W trapezie równoramiennym ABCD przekątna BD ma długość 39 i tworzy z dłuższą podstawą AB taki kąt ostry α, że cos α = 12/13. Różnica długości podstaw AB i CD tego trapezu jest równa 40.\n\nOblicz długość ramienia AD tego trapezu. Zapisz obliczenia."
+  },
+
+  {
+    "typ": "zadanie_maturalne",
+    "rok": 2026,
+    "miesiac": "sierpień",
+    "numer_zadania": 30,
+    "punktacja": {
+      "minimum": 0,
+      "maksimum": 4
+    },
+    "przedmiot": "matematyka",
+    "poziom": "podstawowy",
+    "tresc": "Rozważamy wszystkie walce, w których suma średnicy podstawy walca i wysokości walca jest równa 10. Niech P(r) oznacza pole powierzchni bocznej takiego walca w zależności od promienia r podstawy walca.\n\nWyznacz wzór i dziedzinę funkcji P zmiennej r.\n\nOblicz promień r podstawy tego z rozważanych walców, którego pole powierzchni bocznej jest największe. Zapisz obliczenia."
+  }
+]
