@@ -9,6 +9,7 @@ export default function Main() {
   const [poziom, setPoziom] = useState("podstawowy");
   const [iloscZadan, setIloscZadan] = useState(3);
   const [wybraneLata, setWybraneLata] = useState(lata);
+  const [ukryjZadania, setUkryjZadania] = useState(false);
 
   const tresciZadan = otwarte
     .filter((zadanie) => zadanie.poziom === poziom)
@@ -27,6 +28,7 @@ export default function Main() {
     const wylosowaneZadania = tresciZadan.filter((zadanie, indeks) =>
       numeryZadan.includes(indeks),
     );
+    setUkryjZadania(false);
     return setWybraneZadania(wylosowaneZadania);
   }
 
@@ -119,14 +121,24 @@ export default function Main() {
       <button className="btn" onClick={wybierzLosoweZadanie}>
         Generuj zadania
       </button>
-      <button className="btn">Ukryj zadania</button>
-      <div className="tresciZadan" id="tresciZadan">
-        <ol>{wyswietlZadania()}</ol>
-      </div>
-
-      <button className="btn" onClick={() => zapiszZadania(wybraneZadania)}>
-        Zapisz pdf z zadaniami
-      </button>
+      {wybraneZadania.length !== 0 && (
+        <button
+          className="btn"
+          onClick={() => setUkryjZadania((prev) => !prev)}
+        >
+          {ukryjZadania ? "Pokaż zadania" : "Ukryj zadania"}
+        </button>
+      )}
+      {!ukryjZadania && (
+        <div className="tresciZadan" id="tresciZadan">
+          <ol>{wyswietlZadania()}</ol>
+        </div>
+      )}
+      {wybraneZadania.length !== 0 && (
+        <button className="btn" onClick={() => zapiszZadania(wybraneZadania)}>
+          Zapisz pdf z zadaniami
+        </button>
+      )}
     </main>
   );
 }
